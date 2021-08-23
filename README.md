@@ -1,2 +1,2 @@
-# block-badbot-apache
-Config Block Bad Bot with Apache 
+### Config Block Bad Bot with Apache
+See more: https://levanphu.info
